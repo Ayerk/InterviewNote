@@ -150,17 +150,27 @@
               "icon": "lucide-list",
               "title": "01.面经 的大纲"
             }
+          },
+          {
+            "id": "ab4dd30fc1fa4a3b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -169,10 +179,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "65e5cd1408cea52f",
+  "active": "ab4dd30fc1fa4a3b",
   "lastOpenFiles": [
-    "面试/02.C_C++.md",
     "面试/01.面经.md",
+    "面试/02.C_C++.md",
     "创建链接.md",
     "欢迎.md",
     "未命名",
