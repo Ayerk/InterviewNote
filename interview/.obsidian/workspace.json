@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9defd26d41dccb5",
+        "id": "1690f5d7b3b730c3",
         "type": "tabs",
         "children": [
           {
-            "id": "65e5cd1408cea52f",
+            "id": "0ea359bb16014844",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "interview/.obsidian/workspace.json",
-                "bFile": "interview/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "面试/01.面经.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "01.面经"
             }
           }
         ]
@@ -153,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "面试/01.面经.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "01.面经 的大纲"
             }
           }
         ],
