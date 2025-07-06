@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "2a5a5ad9d4daadaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9defd26d41dccb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e5cd1408cea52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/01.面经.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.面经"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c0491a38c48910c",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c1834f46c553fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6819d28df397f6e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3cf0a3931d3bb549",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9a8b4ba86fe459f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d6bae0d5e798f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "22fb423c3c1c84db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1109aeeed0ca957a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面试/01.面经.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01.面经 的反向链接列表"
+            }
+          },
+          {
+            "id": "e3063a9fd33459e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "面试/01.面经.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01.面经 的出链列表"
+            }
+          },
+          {
+            "id": "930998aacef302f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2ce53c30451c7bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "面试/01.面经.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01.面经 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "65e5cd1408cea52f",
+  "lastOpenFiles": [
+    "面试/02.C_C++.md",
+    "面试/01.面经.md",
+    "创建链接.md",
+    "欢迎.md",
+    "未命名",
+    "面试/03.MySQL.md",
+    "未命名.canvas",
+    "面试/06.操作系统.md",
+    "面试/05.计算机网络.md",
+    "面试/04.Redis.md",
+    "interview/高频问题.md",
+    "面试",
+    "未命名 1.md"
+  ]
+}
