@@ -11,14 +11,14 @@
             "id": "65e5cd1408cea52f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "面试/01.面经.md",
-                "mode": "source",
-                "source": false
+                "aFile": "interview/.obsidian/workspace.json",
+                "bFile": "interview/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "01.面经"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -153,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/01.面经.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01.面经 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +180,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a8b4ba86fe459f5",
+  "active": "ab4dd30fc1fa4a3b",
   "lastOpenFiles": [
+    "未命名",
     "面试/01.面经.md",
     "面试/02.C_C++.md",
     "创建链接.md",
     "欢迎.md",
-    "未命名",
     "面试/03.MySQL.md",
     "未命名.canvas",
     "面试/06.操作系统.md",
