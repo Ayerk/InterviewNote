@@ -11,14 +11,14 @@
             "id": "0ea359bb16014844",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "interview/面试/01.面经.md",
-                "bFile": "interview/面试/01.面经.md",
-                "aRef": ""
+                "file": "面试/02.C_C++.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 01.面经"
+              "icon": "lucide-file",
+              "title": "02.C_C++"
             }
           }
         ]
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ea359bb16014844",
+  "active": "ab4dd30fc1fa4a3b",
   "lastOpenFiles": [
     "面试/02.C_C++.md",
     "().md",
