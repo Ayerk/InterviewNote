@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/02.C_C++.md",
+                "file": "面试/01.面经.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02.C_C++ 的大纲"
+              "title": "01.面经 的大纲"
             }
           }
         ],
@@ -183,14 +183,16 @@
   },
   "active": "ab4dd30fc1fa4a3b",
   "lastOpenFiles": [
-    "面试/07.项目.md",
+    "面试/08.项目.md",
+    "面试/07.Linux.md",
+    "面试/02.C_C++.md",
+    "语法树.png",
+    "面试/01.面经.md",
     "面试/06.操作系统.md",
     "面试/05.计算机网络.md",
     "面试/03.MySQL.md",
     "面试/04.Redis.md",
-    "面试/02.C_C++.md",
     "vector的底层实现？.md",
-    "面试/01.面经.md",
     "().md",
     "未命名",
     "创建链接.md",
